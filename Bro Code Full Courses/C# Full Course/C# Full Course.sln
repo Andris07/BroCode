@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. user input", "6. user in
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. arithmetic operators", "7. arithmetic operators\7. arithmetic operators.csproj", "{DE891321-B797-4227-8CD1-682EB66B99F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. math class", "8. math class\8. math class.csproj", "{5164B6DD-EC86-4986-98A1-1C25BACC8F34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{DE891321-B797-4227-8CD1-682EB66B99F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE891321-B797-4227-8CD1-682EB66B99F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE891321-B797-4227-8CD1-682EB66B99F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5164B6DD-EC86-4986-98A1-1C25BACC8F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5164B6DD-EC86-4986-98A1-1C25BACC8F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5164B6DD-EC86-4986-98A1-1C25BACC8F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5164B6DD-EC86-4986-98A1-1C25BACC8F34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
