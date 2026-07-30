@@ -6,3 +6,5 @@ int age = int.Parse(Console.ReadLine()!);
 
 Console.WriteLine("Hello " + name);
 Console.WriteLine("You are " + age + " years old");
+
+Console.ReadKey();
