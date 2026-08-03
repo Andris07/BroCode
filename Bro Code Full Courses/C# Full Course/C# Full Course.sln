@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. switches", "13. switche
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. logical operators", "14. logical operators\14. logical operators.csproj", "{640476F1-8294-4612-80E4-834517BB5AE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. while loops", "15. while loops\15. while loops.csproj", "{360A821B-A33D-4886-BEAB-DAFF3192C9C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{640476F1-8294-4612-80E4-834517BB5AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{640476F1-8294-4612-80E4-834517BB5AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{640476F1-8294-4612-80E4-834517BB5AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{360A821B-A33D-4886-BEAB-DAFF3192C9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360A821B-A33D-4886-BEAB-DAFF3192C9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360A821B-A33D-4886-BEAB-DAFF3192C9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360A821B-A33D-4886-BEAB-DAFF3192C9C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
