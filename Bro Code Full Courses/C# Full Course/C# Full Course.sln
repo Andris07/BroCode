@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. hypotenuse calculator p
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. string methods", "11. string methods\11. string methods.csproj", "{BE2C47EC-99A9-4F55-B32D-A3FB2A496DEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. if statements", "12. if statements\12. if statements.csproj", "{5F0F5FBB-E3EF-44FF-95C9-F90FEE8498A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{BE2C47EC-99A9-4F55-B32D-A3FB2A496DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE2C47EC-99A9-4F55-B32D-A3FB2A496DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE2C47EC-99A9-4F55-B32D-A3FB2A496DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0F5FBB-E3EF-44FF-95C9-F90FEE8498A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0F5FBB-E3EF-44FF-95C9-F90FEE8498A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0F5FBB-E3EF-44FF-95C9-F90FEE8498A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0F5FBB-E3EF-44FF-95C9-F90FEE8498A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
