@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18. number guessing game", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19. rock-paper-scissors game", "19. rock-paper-scissors game\19. rock-paper-scissors game.csproj", "{4E6CFD9E-4162-45F8-9668-B1F6A72870EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20. calculator program", "20. calculator program\20. calculator program.csproj", "{D8010AD4-B9AD-4C14-9619-968B109CA629}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{4E6CFD9E-4162-45F8-9668-B1F6A72870EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E6CFD9E-4162-45F8-9668-B1F6A72870EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E6CFD9E-4162-45F8-9668-B1F6A72870EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8010AD4-B9AD-4C14-9619-968B109CA629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8010AD4-B9AD-4C14-9619-968B109CA629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8010AD4-B9AD-4C14-9619-968B109CA629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8010AD4-B9AD-4C14-9619-968B109CA629}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
