@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41. ToString method", "41. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42. polymorphism", "42. polymorphism\42. polymorphism.csproj", "{15870B2B-9523-439A-999F-3DA14729C4FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43. interfaces", "43. interfaces\43. interfaces.csproj", "{CFBD6D93-AD37-4A34-B6B6-A22164F7A7CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +263,10 @@ Global
 		{15870B2B-9523-439A-999F-3DA14729C4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15870B2B-9523-439A-999F-3DA14729C4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15870B2B-9523-439A-999F-3DA14729C4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFBD6D93-AD37-4A34-B6B6-A22164F7A7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBD6D93-AD37-4A34-B6B6-A22164F7A7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBD6D93-AD37-4A34-B6B6-A22164F7A7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBD6D93-AD37-4A34-B6B6-A22164F7A7CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
