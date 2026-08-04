@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. params keyword", "26. p
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. exception handling", "27. exception handling\27. exception handling.csproj", "{2F91ECCD-D796-4431-BA94-97ABA9B313D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. conditional operator", "28. conditional operator\28. conditional operator.csproj", "{09327436-EFDB-4127-B5B8-A7AB5C9AF327}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{2F91ECCD-D796-4431-BA94-97ABA9B313D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F91ECCD-D796-4431-BA94-97ABA9B313D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F91ECCD-D796-4431-BA94-97ABA9B313D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09327436-EFDB-4127-B5B8-A7AB5C9AF327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09327436-EFDB-4127-B5B8-A7AB5C9AF327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09327436-EFDB-4127-B5B8-A7AB5C9AF327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09327436-EFDB-4127-B5B8-A7AB5C9AF327}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
