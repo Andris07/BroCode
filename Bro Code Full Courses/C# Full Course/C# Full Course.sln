@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38. array of objects", "38.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39. objects as arguments", "39. objects as arguments\39. objects as arguments.csproj", "{CE579974-BB61-42F6-B9CF-599B21AC9180}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40. method overriding", "40. method overriding\40. method overriding.csproj", "{64C67110-D41F-4BF6-B3A1-D71CC2E47355}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{CE579974-BB61-42F6-B9CF-599B21AC9180}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE579974-BB61-42F6-B9CF-599B21AC9180}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE579974-BB61-42F6-B9CF-599B21AC9180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C67110-D41F-4BF6-B3A1-D71CC2E47355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C67110-D41F-4BF6-B3A1-D71CC2E47355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C67110-D41F-4BF6-B3A1-D71CC2E47355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C67110-D41F-4BF6-B3A1-D71CC2E47355}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
