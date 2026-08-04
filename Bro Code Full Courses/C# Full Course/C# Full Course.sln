@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19. rock-paper-scissors gam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20. calculator program", "20. calculator program\20. calculator program.csproj", "{D8010AD4-B9AD-4C14-9619-968B109CA629}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21. arrays", "21. arrays\21. arrays.csproj", "{FD824FDF-85BD-48BD-AB14-49CC6F65DBBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{D8010AD4-B9AD-4C14-9619-968B109CA629}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8010AD4-B9AD-4C14-9619-968B109CA629}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8010AD4-B9AD-4C14-9619-968B109CA629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD824FDF-85BD-48BD-AB14-49CC6F65DBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD824FDF-85BD-48BD-AB14-49CC6F65DBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD824FDF-85BD-48BD-AB14-49CC6F65DBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD824FDF-85BD-48BD-AB14-49CC6F65DBBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
