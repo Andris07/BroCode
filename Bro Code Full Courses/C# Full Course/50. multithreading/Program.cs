@@ -24,7 +24,7 @@ static void CountDown(string name)
         Console.WriteLine($"{name} {i} seconds");
         Thread.Sleep(1000);
     }
-    Console.WriteLine($"Timer #1 is complete!");
+    Console.WriteLine($"{name} is complete!");
 }
 
 static void CountUp(string name)
@@ -34,5 +34,5 @@ static void CountUp(string name)
         Console.WriteLine($"{name} {i} seconds");
         Thread.Sleep(1000);
     }
-    Console.WriteLine($"Timer #2 is complete!");
+    Console.WriteLine($"{name} is complete!");
 }
